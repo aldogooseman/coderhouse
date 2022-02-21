@@ -123,10 +123,7 @@ body {
     transform: scale(1.1);
     }
 
-.ser2--transition:hover{
-    background-color: darkgoldenrod;
 
-}
 
 .servicio2 {
     background-color: rgb(84, 108, 136);
@@ -134,9 +131,15 @@ body {
     display: flex;
     padding-left: 10px;
     align-items: center;
+    transition: all 0.5s;
+   
    
 }
 
+.ser2--transition:hover{
+    background-color: darkgoldenrod;
+
+}
 
 .aside {
     background-color: chocolate;
