@@ -113,7 +113,19 @@ body {
     display: flex;
     padding-left: 10px;
     align-items: center;
+
+
+    transition: all 0.5s;
    
+}
+
+.servicio1--animacion:hover {
+    transform: scale(1.1);
+    }
+
+.ser2--transition:hover{
+    background-color: darkgoldenrod;
+
 }
 
 .servicio2 {
@@ -124,6 +136,7 @@ body {
     align-items: center;
    
 }
+
 
 .aside {
     background-color: chocolate;
