@@ -167,7 +167,7 @@ body {
 
  @media screen and (max-width:980px) {
     .main {
-        background-color: rgb(238, 11, 11);
+        background-color: rgb(34, 21, 21);
     }
     .grid-area {
         grid-template-columns: 50% auto;
